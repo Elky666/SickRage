@@ -52,7 +52,7 @@ __all__ = ['womble',
            'xthor',
            'scenetime',
            'btdigg',
-]
+           'nzbclub',
 
 import sickbeard
 import generic
